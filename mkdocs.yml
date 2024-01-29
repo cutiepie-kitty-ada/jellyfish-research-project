@@ -1,0 +1,44 @@
+site_name: jellyfish-research-project
+nav:
+  - Home: index.md
+theme:
+  name: material
+  favicon: https://cdn0.iconfinder.com/data/icons/sea-life-25/64/jellyfish_marine_sea_animal_jellies-512.png
+  logo: https://cdn0.iconfinder.com/data/icons/sea-life-25/64/jellyfish_marine_sea_animal_jellies-512.png
+  font:
+    text: Roboto
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      accent: deep purple
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - header.autohide
+    - navigation.top
+    - navigation.footer
+repo_name: jellyfish-research-project
+repo_url: https://github.com/cutiepie-kitty-ada/jellyfish-research-project
+plugins:
+  - search
+  - minify:
+      minify_html: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cutiepie-kitty-ada
