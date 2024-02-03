@@ -1,6 +1,6 @@
 # Jellyfish
 
-![](https://img.freepik.com/premium-photo/realistic-detailed-3d-colorful-jellyfish_776741-143.jpg)
+![](https://img.freepik.com/premium-photo/ultra-detailed-jellyfish-with-iridescent-glow-s_1009391-5039.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699574400&semt=ais)
 
 - Jellyfish are invertebrates.
 - Jellyfish sting with their tentacles.
