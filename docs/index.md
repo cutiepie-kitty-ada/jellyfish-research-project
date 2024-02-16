@@ -4,6 +4,8 @@
 
 - Jellyfish are invertebrates.
 - Jellyfish sting with their tentacles.
-- Jellyfish have a lot of (1-200) tentacles. Be careful!
+- Jellyfish usually have 4-8 tentacles. But some types of jellyfish can have hundreds or even thousands.[^1] Be careful!
 - Jellyfish are mostly ocean animals, but some types of jellyfish live in freshwater.
-  
+
+[^1]: See [https://wildlifeinformer.com/do-jellyfish-have-tentacles/][1]
+[1]: https://wildlifeinformer.com/do-jellyfish-have-tentacles/#:~:text=HOW%20MANY%20TENTACLES,into%20eight%20clusters.
