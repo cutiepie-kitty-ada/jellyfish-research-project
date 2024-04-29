@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn3.iconfinder.com/data/icons/piano-keyboard/900/4-512.png" alt="logo" height="128">
+    <img src="https://cdn0.iconfinder.com/data/icons/sea-life-25/64/jellyfish_marine_sea_animal_jellies-512.png" alt="logo" height="128">
 </div>
 
 # jellyfish-research-project
