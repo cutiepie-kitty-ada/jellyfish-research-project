@@ -3,8 +3,8 @@ nav:
   - Home: index.md
 theme:
   name: material
-  favicon: https://cdn0.iconfinder.com/data/icons/sea-life-25/64/jellyfish_marine_sea_animal_jellies-512.png
-  logo: https://cdn0.iconfinder.com/data/icons/sea-life-25/64/jellyfish_marine_sea_animal_jellies-512.png
+  favicon: https://raw.githubusercontent.com/cutiepie-kitty-ada/jellyfish-research-project/refs/heads/main/logo.png
+  logo: https://raw.githubusercontent.com/cutiepie-kitty-ada/jellyfish-research-project/refs/heads/main/logo.png
   font:
     text: Roboto
   palette:
